@@ -1,0 +1,1 @@
+import{_ as e,o as t,e as a}from"./index-d87aa06b.js";const n={name:"MainPage",data(){return{}},mounted(){},methods:{}};function o(r,s,c,_,d,m){return t(),a("div")}const i=e(n,[["render",o]]);export{i as default};
